@@ -1,0 +1,7 @@
+static/target/*.jpg
+static/target/*.png
+static/index.ann
+.history
+query/*.png
+query/*.jpg
+__pycache__/
